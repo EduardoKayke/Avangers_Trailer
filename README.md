@@ -4,7 +4,9 @@
 
 ## Sobre o projeto.
 Este projeto tem como principal objetivo criar uma página simples, com informações sobre o filme dos Avangers.
-Data de conclusão: 10/12/2021<br><br>
+<br>
+Data de conclusão: 10/12/2021
+<br>
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
